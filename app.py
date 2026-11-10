@@ -9,7 +9,7 @@ def load_model():
 
 @st.cache_data
 def load_districts():
-    districts = pd.read_csv('Important_Districts.csv')['district'].to_list()
+    districts = pd.read_csv('csvs/Important_Districts.csv')['district'].to_list()
     districts.append("Others")
     return districts
 
