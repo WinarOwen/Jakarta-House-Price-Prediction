@@ -5,7 +5,7 @@ import numpy as np
 
 @st.cache_resource
 def load_model():
-    return joblib.load("lin_reg.joblib")
+    return joblib.load("lasso_reg.joblib")
 
 @st.cache_data
 def load_districts():

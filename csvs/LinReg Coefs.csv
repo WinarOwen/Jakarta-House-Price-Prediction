@@ -1,40 +1,40 @@
 ,0
-cat__district_Menteng,1.2048989085680915
-cat__district_Kebayoran Baru,1.1178152363528566
-cat__district_Pondok Indah,0.8291232830359586
-cat__district_Permata Buana,0.7308845552301715
-cat__district_Pantai Indah Kapuk,0.7256877689146896
-log__land_area,0.6148609533055989
-cat__district_Puri Indah,0.5985270619833926
-cat__district_Rawamangun,0.5795542235106711
-cat__district_Tanjung Duren,0.5048305652823141
-cat__district_Muara Karang,0.4231644682176032
-cat__district_Sunter,0.40855124675999294
-cat__district_Kemang,0.40448660164386707
-cat__district_Jakarta Garden City,0.4037961205560064
-cat__district_Pantai Indah Kapuk 2,0.39418135644699853
-cat__district_Cipete,0.3778427875298028
-cat__district_Green Lake City,0.3728145184625739
-cat__district_Duri Kepa,0.3510688913555576
-cat__district_Tebet,0.35002459836527705
-cat__district_Cakung,0.3424690074365889
-cat__district_Jelambar,0.34049602088770253
-cat__district_Kelapa Gading,0.3227202921883317
-cat__district_Duren Sawit,0.3074702136490968
-cat__district_Others,0.3048128870417256
-cat__district_Cilandak,0.27725142138603914
-cat__district_Citra Garden,0.2528421530344666
-cat__district_Cempaka Putih,0.24604614768782404
-log__building_area,0.20257603693913653
-cat__district_Lebak Bulus,0.19770255371237067
-cat__city_Jakarta Pusat,0.17221772367341998
-cat__district_Meruya,0.16781427364709023
-cat__district_Pondok Kelapa,0.13935450754483358
-cat__city_Jakarta Selatan,0.13007089337699734
-cat__city_Jakarta Utara,0.1286774830931937
-num__bath_rooms,0.10238006601154825
-cat__district_Cibubur,0.04573251426224186
-num__carport,0.023286753732564097
-num__bed_rooms,-0.03730050560466273
-cat__district_Jagakarsa,-0.040100280778333434
-cat__city_Jakarta Timur,-0.2734867026106137
+cat__district_Menteng,1.162508595365676
+cat__district_Kebayoran Baru,1.014177373994423
+cat__district_Pondok Indah,0.8074502491540352
+cat__district_Permata Buana,0.7065873095257913
+cat__district_Pantai Indah Kapuk,0.6754059907173211
+cat__district_Rawamangun,0.5942370805526693
+log__land_area,0.557214392573235
+cat__district_Puri Indah,0.5377113428567345
+cat__district_Kemang,0.5053523959147668
+cat__district_Tanjung Duren,0.44227308804296595
+cat__district_Pantai Indah Kapuk 2,0.418106860375294
+cat__district_Jakarta Garden City,0.380077957095376
+cat__district_Muara Karang,0.3517311660480486
+cat__district_Sunter,0.35075698050971543
+cat__district_Green Lake City,0.3457217548619419
+cat__district_Cipete,0.3378199897820427
+cat__district_Tebet,0.3349744412141707
+cat__district_Cakung,0.33056401872992575
+cat__district_Duri Kepa,0.3195488506490121
+cat__district_Jelambar,0.31835719283288294
+cat__district_Duren Sawit,0.3051522633123288
+cat__district_Cilandak,0.2953154019425094
+cat__district_Kelapa Gading,0.2778448606068129
+cat__district_Others,0.2771284544410383
+cat__district_Cempaka Putih,0.22354269859990028
+cat__district_Citra Garden,0.21676804077372094
+cat__district_Pondok Kelapa,0.21110475836762727
+cat__district_Lebak Bulus,0.20429194083788874
+log__building_area,0.18756688279898853
+cat__city_Jakarta Utara,0.1652802880484024
+cat__city_Jakarta Pusat,0.1590120094960259
+cat__city_Jakarta Selatan,0.1242489683315943
+cat__district_Meruya,0.11716250975771665
+num__bath_rooms,0.09311338311374368
+cat__district_Cibubur,0.07298614284634372
+num__carport,0.030375024281040375
+num__bed_rooms,-0.03815308937991126
+cat__district_Jagakarsa,-0.10103331559606538
+cat__city_Jakarta Timur,-0.29341421455755884
