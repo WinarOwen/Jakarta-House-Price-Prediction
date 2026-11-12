@@ -5,7 +5,6 @@ cat__district_Pondok Indah,0.8074502491540352
 cat__district_Permata Buana,0.7065873095257913
 cat__district_Pantai Indah Kapuk,0.6754059907173211
 cat__district_Rawamangun,0.5942370805526693
-log__land_area,0.557214392573235
 cat__district_Puri Indah,0.5377113428567345
 cat__district_Kemang,0.5053523959147668
 cat__district_Tanjung Duren,0.44227308804296595
@@ -27,14 +26,10 @@ cat__district_Cempaka Putih,0.22354269859990028
 cat__district_Citra Garden,0.21676804077372094
 cat__district_Pondok Kelapa,0.21110475836762727
 cat__district_Lebak Bulus,0.20429194083788874
-log__building_area,0.18756688279898853
 cat__city_Jakarta Utara,0.1652802880484024
 cat__city_Jakarta Pusat,0.1590120094960259
 cat__city_Jakarta Selatan,0.1242489683315943
 cat__district_Meruya,0.11716250975771665
-num__bath_rooms,0.09311338311374368
 cat__district_Cibubur,0.07298614284634372
-num__carport,0.030375024281040375
-num__bed_rooms,-0.03815308937991126
 cat__district_Jagakarsa,-0.10103331559606538
 cat__city_Jakarta Timur,-0.29341421455755884
